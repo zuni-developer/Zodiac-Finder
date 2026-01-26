@@ -86,3 +86,11 @@ Zodiac-Finder/
 * Micro-animations on zodiac reveal
 
 ---
+
+## Laravel Version
+
+This project also has a Laravel-based version with Blade templates and proper routing.
+
+👉 [Zodiac Finder Laravel](https://github.com/zuni-developer/Zodiac-Finder-Laravel)
+
+---
