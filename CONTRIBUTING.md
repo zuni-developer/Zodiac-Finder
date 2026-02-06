@@ -86,7 +86,7 @@ Before submitting your changes:
 1. **Fork** the repository
 2. **Clone** your fork:
   ```bash
-   git clone https://github.com/zuni-developer/Zodiac-Finder.git
+   git clone https://github.com/your-username/Zodiac-Finder.git
   ```
 
 3. Create a new branch:
