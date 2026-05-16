@@ -24,18 +24,18 @@ document.getElementById('greeting').textContent = `Hello, ${name}!`;
 document.getElementById('zodiac').textContent = `Your Zodiac Sign is: ${zodiac}`;
 
 const zodiacImages = {
-    "Aquarius": "/img/aquarius.png",
-    "Pisces": "/img/pisces.png",
-    "Aries": "/img/aries.png",
-    "Taurus": "/img/taurus.png",
-    "Gemini": "/img/gemeni.png",
-    "Cancer": "/img/cancer.png",
-    "Leo": "/img/leo.png",
-    "Virgo": "/img/virgo.png",
-    "Libra": "/img/libra.png",
-    "Scorpio": "/img/scorpio.png",
-    "Sagittarius": "/img/sagittarius.png",
-    "Capricorn": "/img/capricorn.png"
+    "Aquarius": "img/aquarius.png",
+    "Pisces": "img/pisces.png",
+    "Aries": "img/aries.png",
+    "Taurus": "img/taurus.png",
+    "Gemini": "img/gemeni.png",
+    "Cancer": "img/cancer.png",
+    "Leo": "img/leo.png",
+    "Virgo": "img/virgo.png",
+    "Libra": "img/libra.png",
+    "Scorpio": "img/scorpio.png",
+    "Sagittarius": "img/sagittarius.png",
+    "Capricorn": "img/capricorn.png"
 };
 
 const zodiacBackground = document.getElementById('zodiacBackground');
