@@ -1,3 +1,7 @@
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
 # ♈ Zodiac Finder
 
 A simple yet visually polished **Zodiac Finder web app** built with **HTML, CSS, and JavaScript**.  
@@ -59,7 +63,7 @@ Zodiac-Finder/
 │   ├── result-preview.png
 │   └── zodiac-icons...
 │
-├── LISENCE.txt
+├── LICENSE.txt
 └── README.md
 
 ```
